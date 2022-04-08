@@ -48,7 +48,7 @@
 	min-height: 1000px;
 	max-height: 999999px; /* prevents font boosting */
 	margin: 56px auto 20px; /* top right bottom left */
-	box-shadow: 0 0 7px #122b6d; /*527bbd;*/
+	box-shadow: 0 0 7px #DD6D50; /*527bbd;*/
 	text-align: left;
 	background: #fff;
 	padding: 14px 14px 14px 14px; /* top right bottom left */
